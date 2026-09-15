@@ -60,6 +60,30 @@
 
 官方下载地址：[nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases/download/1.1.12/nvm-setup.exe)
 
+### PyCharm Professional
+
+用于进行 Python 代码编辑、开发和项目调试。
+
+[PyCharm Professional 安装包，可在 Windows 上安装使用 - pycharm-professional-2021.1.3.exe](./pycharm-professional-2021.1.3.exe)
+
+来源于：[JetBrains PyCharm 官方网站](https://www.jetbrains.com/pycharm/)
+
+官方下载页：[JetBrains 其他版本下载页](https://www.jetbrains.com/pycharm/download/other.html)
+
+### Python
+
+用于运行 Python 程序和搭建 Python 开发环境。
+
+[Python 3.8.10 安装包，可在 Windows 上安装使用 - python-3.8.10-amd64.exe](./python-3.8.10-amd64.exe)
+
+[Python 3.9.6 安装包，可在 Windows 上安装使用 - python-3.9.6-amd64.exe](./python-3.9.6-amd64.exe)
+
+[Python 3.13.15 安装包，可在 Windows 上安装使用 - python-3.13.15-amd64.exe](./python-3.13.15-amd64.exe)
+
+来源于：[Python 官方网站](https://www.python.org/)
+
+官方下载页：[Python Releases for Windows](https://www.python.org/downloads/windows/)
+
 ### 搜狗五笔输入法
 
 用于进行中文五笔输入。
@@ -89,6 +113,16 @@
 来源于：[TortoiseGit 官方网站](https://tortoisegit.org/)
 
 官方下载页：[TortoiseGit Downloads](https://tortoisegit.org/download/)
+
+### Typora
+
+用于进行 Markdown 文档编辑和预览。
+
+[Typora 安装包，可在 Windows 上安装使用 - typora-update-x64-1117.exe](./typora-update-x64-1117.exe)
+
+下载来源：[Pure-Happiness/Typora-0.11.18 GitHub Releases](https://github.com/Pure-Happiness/Typora-0.11.18/releases/tag/v0.11.18)
+
+下载地址：[typora-update-x64-1117.exe](https://github.com/Pure-Happiness/Typora-0.11.18/releases/download/v0.11.18/typora-update-x64-1117.exe)
 
 ### Visual Studio Code
 
