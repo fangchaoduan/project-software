@@ -118,11 +118,17 @@
 
 用于进行 Markdown 文档编辑和预览。
 
+[Typora 1.9.5 安装包，可在 Windows 上安装使用 - typora-setup-x64-1.9.5.exe](./typora-setup-x64-1.9.5.exe)
+
 [Typora 安装包，可在 Windows 上安装使用 - typora-update-x64-1117.exe](./typora-update-x64-1117.exe)
+
+官方网站：[Typora 官方网站](https://typora.io/)
 
 下载来源：[Pure-Happiness/Typora-0.11.18 GitHub Releases](https://github.com/Pure-Happiness/Typora-0.11.18/releases/tag/v0.11.18)
 
 下载地址：[typora-update-x64-1117.exe](https://github.com/Pure-Happiness/Typora-0.11.18/releases/download/v0.11.18/typora-update-x64-1117.exe)
+
+[Typora 教程备份（转载文章及配图）](./免费使用正版的Typora教程【转的文章，用于备份，出处在文章中】.md)
 
 ### Visual Studio Code
 
